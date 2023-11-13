@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salim Ansari</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
-<img aling="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img aling="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salimansari88&label=Profile%20views&color=0e75b6&style=flat" alt="salimansari88" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salimansari88" alt="salimansari88" /></a> </p>
